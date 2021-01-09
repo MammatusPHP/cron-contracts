@@ -1,0 +1,20 @@
+{
+    "name": "mammatus/cron-contracts",
+    "description": "Cron contracts",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4",
+        "react/promise": "^2.8"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        },
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Mammatus\\Cron\\Contracts\\": "src/"
+        }
+    }
+}
