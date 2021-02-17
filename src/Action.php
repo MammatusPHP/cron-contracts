@@ -8,5 +8,5 @@ use React\Promise\PromiseInterface;
 
 interface Action
 {
-    public function perform(): PromiseInterface;
+    public function perform(): void;
 }
