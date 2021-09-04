@@ -3,7 +3,7 @@
     "description": "Cron contracts",
     "license": "MIT",
     "require": {
-        "php": "^7.4",
+        "php": "^8 || ^7.4",
         "react/promise": "^2.8"
     },
     "config": {
