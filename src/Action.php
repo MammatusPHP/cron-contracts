@@ -4,9 +4,7 @@ declare(strict_types=1);
 
 namespace Mammatus\Cron\Contracts;
 
-use React\Promise\PromiseInterface;
-
 interface Action
 {
-    public function perform(): PromiseInterface;
+    public function perform(): void;
 }
