@@ -3,7 +3,9 @@
     "description": "Cron contracts",
     "license": "MIT",
     "require": {
-        "php": "^8.2",
+        "php": "^8.2"
+    },
+    "require-dev": {
         "wyrihaximus/test-utilities": "^5.6"
     },
     "autoload": {
