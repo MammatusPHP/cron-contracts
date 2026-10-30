@@ -1,6 +1,5 @@
 # Contracts for the cron manager
 
-[![Continuous Integration](https://github.com/MammatusPHP/cron-contracts/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/MammatusPHP/cron-contracts/actions/workflows/ci.yml)
 [![Latest Stable Version](https://poser.pugx.org/mammatus/cron-contracts/v/stable.png)](https://packagist.org/packages/mammatus/cron-contracts)
 [![Total Downloads](https://poser.pugx.org/mammatus/cron-contracts/downloads.png)](https://packagist.org/packages/mammatus/cron-contracts)
 [![License](https://poser.pugx.org/mammatus/cron-contracts/license.png)](https://packagist.org/packages/mammatus/cron-contracts)
